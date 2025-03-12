@@ -1,0 +1,3 @@
+Livro@255316f2
+Membro: Alice Silva, ID: 1, Email: alice.silva@exemplo.com
+Membro: João Pereira, ID: 2, Email: joao.pereira@exemplo.com

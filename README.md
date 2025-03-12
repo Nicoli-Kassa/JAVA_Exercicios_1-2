@@ -1,15 +1,17 @@
-# Sistema de Gestão de Biblioteca
+# Nicoli Amy Kassa | RM 559104
+
+## Sistema de Gestão de Biblioteca
 
 Este é um sistema simples de gestão de biblioteca desenvolvido em Java. O sistema permite o controle de livros, membros e empréstimos, facilitando a administração de uma biblioteca.
 
-## Funcionalidades
+### Funcionalidades
 
 - **Gerenciamento de Livros**: Adicionar e remover livros da biblioteca.
 - **Gerenciamento de Membros**: Registrar novos membros da biblioteca.
 - **Empréstimos**: Registrar o empréstimo de livros e devolver livros emprestados.
 - **Listagem**: Listar livros disponíveis, membros registrados e empréstimos ativos.
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 O projeto é composto pelas seguintes classes:
 
@@ -19,7 +21,7 @@ O projeto é composto pelas seguintes classes:
 - **Biblioteca**: Classe principal que gerencia a coleção de livros, membros e empréstimos.
 - **SistemaBiblioteca**: Classe principal para executar o sistema.
 
-## Como Usar
+### Como Usar
 
 1. **Compilação**: Compile o código Java usando um ambiente de desenvolvimento Java (como Eclipse, IntelliJ IDEA ou diretamente no terminal).
 2. **Execução**: Execute a classe `SistemaBiblioteca` para iniciar o sistema.
@@ -28,11 +30,11 @@ O projeto é composto pelas seguintes classes:
 ---
 <br><br>
 
-# Sistema de Pedidos para Restaurante
+## Sistema de Pedidos para Restaurante
 
 Este é um sistema simples de gerenciamento de pedidos para um restaurante, desenvolvido em Java. O sistema permite que os usuários gerenciem pratos do cardápio e os pedidos dos clientes, incluindo a adição e remoção de pratos, bem como a visualização dos detalhes do pedido.
 
-## Funcionalidades
+### Funcionalidades
 
 - Gerenciar pratos do cardápio (nome, preço e descrição).
 - Criar e gerenciar pedidos de clientes.
@@ -41,7 +43,7 @@ Este é um sistema simples de gerenciamento de pedidos para um restaurante, dese
 - Calcular o total do pedido.
 - Visualizar detalhes do pedido.
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 O projeto contém as seguintes classes:
 
@@ -50,7 +52,7 @@ O projeto contém as seguintes classes:
 - **Pedido**: Representa um pedido feito por um cliente, contendo informações sobre o número do pedido, cliente, lista de pratos e total.
 - **SistemaRestaurante**: Classe principal que demonstra o uso das classes `Prato` e `Pedido`.
 
-## Como Usar
+### Como Usar
 
 1. **Compilação**: Compile o código Java usando um ambiente de desenvolvimento Java (como Eclipse, IntelliJ IDEA ou diretamente no terminal).
 2. **Execução**: Execute a classe `SistemaRestaurante` para iniciar o sistema.
